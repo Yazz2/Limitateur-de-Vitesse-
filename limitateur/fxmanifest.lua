@@ -2,7 +2,7 @@ fx_version 'adamant'
 game 'gta5'
 
 
-data_file "SCALEFORM_DLC_FILE" "stream/cpminimap/int3232302352.gfx"
+
 
 
 client_scripts {
